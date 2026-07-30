@@ -40,6 +40,16 @@ body {
   overflow: hidden;
 }
 
+/* ─── Section haute ──────────────────────────────────────── */
+.card-top {
+  background-color: var(--card-top-bg);
+  padding: 32px 28px 24px;
+  text-align: center;
+  border-bottom: 1px solid var(--border-soft);
+  position: relative;
+  overflow: hidden;
+}
+
 a {
   text-decoration: none;
 }
