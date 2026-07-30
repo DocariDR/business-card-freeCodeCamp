@@ -21,20 +21,23 @@
   padding: 0;
 }
 
+/* ─── Page ───────────────────────────────────────────────── */
 body {
-  font-family: Arial, sans-serif;
-  background-color: rosybrown;
+  font-family: 'DM Sans', Arial, sans-serif;
+  background-color: #0b111a;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 60px 16px;
 }
 
 .business-card {
   width: 300px;
   background-color: lightblue;
   padding: 20px;
-  margin-top: 100px;
   text-align: center;
   font-size: 16px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .profile-image {
