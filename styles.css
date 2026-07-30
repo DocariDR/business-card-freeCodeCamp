@@ -97,6 +97,11 @@ body {
   color: var(--text-faint);
 }
 
+/* ─── Corps de la carte ──────────────────────────────────── */
+.card-body {
+  padding: 20px 28px;
+}
+
 a {
   text-decoration: none;
 }
