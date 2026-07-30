@@ -72,6 +72,16 @@ body {
   margin: 0 auto 16px;
 }
 
+/* ─── Textes identité ────────────────────────────────────── */
+.full-name {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 5px;
+  letter-spacing: 0.01em;
+}
+
 a {
   text-decoration: none;
 }
