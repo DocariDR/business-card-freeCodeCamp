@@ -82,6 +82,21 @@ body {
   letter-spacing: 0.01em;
 }
 
+.designation {
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 3px;
+}
+
+.company {
+  font-size: 13px;
+  font-weight: 300;
+  color: var(--text-faint);
+}
+
 a {
   text-decoration: none;
 }
