@@ -1,6 +1,6 @@
-# Business Card
+# 💳 Business Card
 
-Exercice CSS consistant à créer une carte de visite digitale centrée et stylisée.
+Exercice CSS consistant à créer une carte de visite digitale centrée, accessible et au design sombre moderne.
 
 ![Status](https://img.shields.io/badge/Statut-Terminé-brightgreen)
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?logo=freecodecamp)
@@ -11,6 +11,7 @@ Exercice CSS consistant à créer une carte de visite digitale centrée et styli
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?logo=google&logoColor=white)
 
 ---
 
@@ -24,7 +25,7 @@ Exercice CSS consistant à créer une carte de visite digitale centrée et styli
 
 ## Démo en ligne
 
-[Voir sur GitHub Pages](https://docaridr.github.io/business-card-freeCodeCamp)
+▶️ [Voir sur GitHub Pages](https://docaridr.github.io/business-card-freeCodeCamp)
 
 ---
 
@@ -40,4 +41,4 @@ business-card/
 
 ## Auteur
 
-**DocariDR** — [GitHub](https://github.com/DocariDR) · [LinkedIn](https://www.linkedin.com/in/ricardo-dovonou) · [X.com](https://x.com/DocariDR)
+**DocariDR** — [GitHub](https://github.com/DocariDR) · [LinkedIn](https://www.linkedin.com/in/ricardo-dovonou) · [Twitter](https://x.com/DocariDR)
