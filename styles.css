@@ -184,3 +184,7 @@ body {
   font-weight: 600;
   letter-spacing: 0.03em;
 }
+
+.portfolio-btn:hover {
+  background-color: var(--accent-hover);
+}
