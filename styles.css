@@ -170,3 +170,17 @@ body {
   font-size: 12px;
   color: var(--text-muted);
 }
+
+/* Bouton portfolio */
+.portfolio-btn {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  background-color: var(--accent);
+  color: var(--card-bg);
+  border-radius: var(--radius-el);
+  padding: 10px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
