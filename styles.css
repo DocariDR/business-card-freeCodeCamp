@@ -1,4 +1,4 @@
-/* ─── Variables ─────────────────────────────────────────── */
+/* Variables */
 :root {
   --card-bg:      #0f1923;
   --card-top-bg:  #1a2d42;
@@ -14,14 +14,14 @@
   --radius-sm:    8px;
 }
 
-/* ─── Reset léger ────────────────────────────────────────── */
+/* Reset léger */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
-/* ─── Page ───────────────────────────────────────────────── */
+/* Page */
 body {
   font-family: 'DM Sans', Arial, sans-serif;
   background-color: #0b111a;
@@ -32,7 +32,7 @@ body {
   padding: 60px 16px;
 }
 
-/* ─── Carte principale ───────────────────────────────────── */
+/* Carte principale */
 .business-card {
   width: 320px;
   background-color: var(--card-bg);
@@ -40,7 +40,7 @@ body {
   overflow: hidden;
 }
 
-/* ─── Section haute ──────────────────────────────────────── */
+/* Section haute */
 .card-top {
   background-color: var(--card-top-bg);
   padding: 32px 28px 24px;
@@ -61,7 +61,7 @@ body {
   pointer-events: none;
 }
 
-/* ─── Photo de profil ────────────────────────────────────── */
+/* Photo de profil */
 .profile-image {
   width: 80px;
   height: 80px;
@@ -72,7 +72,7 @@ body {
   margin: 0 auto 16px;
 }
 
-/* ─── Textes identité ────────────────────────────────────── */
+/* Textes identité */
 .full-name {
   font-family: 'Playfair Display', serif;
   font-size: 20px;
@@ -97,12 +97,12 @@ body {
   color: var(--text-faint);
 }
 
-/* ─── Corps de la carte ──────────────────────────────────── */
+/* Corps de la carte */
 .card-body {
   padding: 20px 28px;
 }
 
-/* ─── Liste de contact ───────────────────────────────────── */
+/* Liste de contact  */
 .contact-list {
   display: flex;
   flex-direction: column;
@@ -115,6 +115,24 @@ body {
   align-items: center;
   gap: 10px;
   text-decoration: none;
+}
+
+.contact-icon {
+  width: 32px;
+  height: 32px;
+  background-color: var(--icon-bg);
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.contact-text {
+  font-size: 13px;
+  color: var(--text-muted);
 }
 
 a {
