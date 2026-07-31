@@ -135,6 +135,31 @@ body {
   color: var(--text-muted);
 }
 
+/* Séparateur */
+.divider {
+  height: 1px;
+  background-color: var(--border-soft);
+  margin-bottom: 20px;
+}
+
+/* Label réseaux */
+.social-label {
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+/* Liens sociaux */
+.social-links {
+  list-style: none;
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
 a {
   text-decoration: none;
 }
