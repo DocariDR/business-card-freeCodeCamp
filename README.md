@@ -1,4 +1,4 @@
-# 💳 Business Card
+# Business Card
 
 Exercice CSS consistant à créer une carte de visite digitale centrée, accessible et au design sombre moderne.
 
@@ -25,7 +25,7 @@ Exercice CSS consistant à créer une carte de visite digitale centrée, accessi
 
 ## Démo en ligne
 
-▶️ [Voir sur GitHub Pages](https://docaridr.github.io/business-card-freeCodeCamp)
+[Voir sur GitHub Pages](https://docaridr.github.io/business-card-freeCodeCamp)
 
 ---
 
@@ -41,4 +41,5 @@ business-card/
 
 ## Auteur
 
-**DocariDR** — [GitHub](https://github.com/DocariDR) · [LinkedIn](https://www.linkedin.com/in/ricardo-dovonou) · [Twitter](https://x.com/DocariDR)
+**DocariDR**
+[GitHub](https://github.com/DocariDR) · [LinkedIn](https://www.linkedin.com/in/ricardo-dovonou) · [Twitter](https://x.com/DocariDR)
