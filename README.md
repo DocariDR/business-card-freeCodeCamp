@@ -1,45 +1,36 @@
 # Business Card
 
-Exercice CSS consistant à créer une carte de visite digitale centrée, accessible et au design sombre moderne.
+Carte de visite digitale réalisée dans le parcours **freeCodeCamp — Responsive Web Design**. L'exercice met l'accent sur la structuration d'un composant simple, le modèle de boîte CSS et la séparation du HTML et du CSS.
 
-![Status](https://img.shields.io/badge/Statut-Terminé-brightgreen)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?logo=freecodecamp)
+![Statut](https://img.shields.io/badge/Statut-Terminé-brightgreen) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23)
 
----
+## Aperçu
+
+Carte de visite centrée avec une interface sombre et une structure adaptée à l'affichage web.
+
+## Compétences travaillées
+
+- Modèle de boîte CSS avec `padding`, `margin` et `width`
+- Centrage et organisation d'un composant
+- Feuille de style CSS externe
+- Ajustement des styles par défaut du navigateur
 
 ## Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?logo=google&logoColor=white)
+- HTML5
+- CSS3
+- Google Fonts
 
----
+## Démo
 
-## Ce que j'ai appris
+[Voir la démo sur GitHub Pages](https://docaridr.github.io/business-card-freeCodeCamp/)
 
-- **Modèle de boîte CSS** : utilisation de `padding`, `margin`, `width` pour structurer et centrer un composant de façon précise.
-- **Feuille de style externe** : séparation du HTML et du CSS via `<link>`, et compréhension des avantages du CSS externe sur le CSS inline ou interne.
-- **Styles par défaut du navigateur** : certaines balises (`p`, `h1`, `ul`…) ont des marges et tailles natives qu'il faut souvent réinitialiser ou ajuster.
+## Statut
 
----
-
-## Démo en ligne
-
-[Voir sur GitHub Pages](https://docaridr.github.io/business-card-freeCodeCamp)
-
----
-
-## Structure
-
-```
-business-card/
-├── index.html
-└── styles.css
-```
-
----
+**Projet terminé — exercice d'apprentissage freeCodeCamp.**
 
 ## Auteur
 
-**DocariDR**
-[GitHub](https://github.com/DocariDR) · [LinkedIn](https://www.linkedin.com/in/ricardo-dovonou) · [Twitter](https://x.com/DocariDR)
+**Ricardo DOVONOU — DocariDR**
+
+[GitHub](https://github.com/DocariDR) · [LinkedIn](https://www.linkedin.com/in/ricardo-dovonou) · [X](https://x.com/DocariDR)
